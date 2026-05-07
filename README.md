@@ -37,7 +37,7 @@
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-org/whatsapp-ai-agent
+git clone https://github.com/Muneeb21-hub/whatsapp-ai-agent
 cd whatsapp-ai-agent
 npm install
 cp .env.example .env
